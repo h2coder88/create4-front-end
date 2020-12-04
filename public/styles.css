@@ -1,0 +1,21 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 90px;
+}
+
+.footer {
+  background-color: lightgray;
+  display: flex;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  height: 80px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
